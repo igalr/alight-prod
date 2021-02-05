@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Hangup Prompt</column_label>
+        <column_label>Hang Up Prompt</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-11 16:38:53</sys_created_on>
         <sys_id>e52c9fc71b25a0108c0021fa234bcb35</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Hangup Prompt</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Hang Up Prompt</sys_name>
         <sys_package display_value="Alight for ServiceNow" source="x_ananc_alight4sn">16af469c1b4de410d6161f4a234bcb4c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Alight for ServiceNow">16af469c1b4de410d6161f4a234bcb4c</sys_scope>
         <sys_update_name>sys_dictionary_x_ananc_alight4sn_queue_hangup_prompt</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-24 22:51:46</sys_updated_on>
+        <sys_updated_on>2021-02-05 18:36:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
