@@ -8,5 +8,6 @@
         <element hint="If set, will display this attribute only if the Reason attribute matches" label="Reason" max_length="40" name="reason" type="string"/>
         <element hint="If a URL is entered here, the attribute will become a clickable link that will launch this URL when clicked" label="Action if Clicked URL" max_length="500" name="sn_on_click" type="string"/>
         <element hint="If set, will display this attribute only if the Subreason attribute matches" label="Subreason" max_length="40" name="subreason" type="string"/>
+        <element label="Zone" max_length="40" name="zone" type="string"/>
     </element>
 </database>

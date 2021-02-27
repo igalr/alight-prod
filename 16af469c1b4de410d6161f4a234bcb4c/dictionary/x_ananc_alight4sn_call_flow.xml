@@ -6,7 +6,7 @@
                 <element inactive_on_update="false" label="message" value="message"/>
                 <element inactive_on_update="false" label="queue" value="alight_queue"/>
                 <element inactive_on_update="false" label="sys_flow" value="sys_flow"/>
-                <element inactive_on_update="false" label="transfer" value="xfer"/>
+                <element inactive_on_update="false" label="transfer" value="transfer"/>
                 <element inactive_on_update="false" label="user_flow" value="user_flow"/>
             </choice>
         </element>

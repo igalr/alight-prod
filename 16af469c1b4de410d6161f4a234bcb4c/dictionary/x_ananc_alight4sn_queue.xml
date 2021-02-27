@@ -59,6 +59,7 @@
         </element>
         <element default="300" hint="Calls exceeding this threshold have experienced an extreme wait time" label="T2 Threshold" max_length="40" name="t2_threshold" type="integer"/>
         <element hint="Defines what the rep hears when the call is accepted" label="Whisper Flow" max_length="32" name="whisper_flow" reference="x_ananc_alight4sn_lookup" reference_qual="javascript:&quot;action=&quot;+&quot;cust_whisper&quot;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Zone" max_length="40" name="zone" type="string"/>
         <index name="index">
             <element name="hold_flow"/>
         </index>
