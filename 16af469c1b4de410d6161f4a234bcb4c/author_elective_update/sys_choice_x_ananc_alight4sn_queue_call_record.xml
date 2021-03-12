@@ -21,7 +21,7 @@
             <element>call_record</element>
             <hint/>
             <inactive>false</inactive>
-            <label>none</label>
+            <label>None</label>
             <language>en</language>
             <name>x_ananc_alight4sn_queue</name>
             <sequence>1</sequence>
@@ -30,9 +30,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>88bb53c71b25a0108c0021fa234bcbfd</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-11 16:36:58</sys_updated_on>
+            <sys_updated_on>2021-03-09 20:42:47</sys_updated_on>
             <value>none</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -40,7 +40,7 @@
             <element>call_record</element>
             <hint/>
             <inactive>false</inactive>
-            <label>agent and customer</label>
+            <label>Agent and Customer</label>
             <language>en</language>
             <name>x_ananc_alight4sn_queue</name>
             <sequence>2</sequence>
@@ -49,9 +49,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>624b97c71b25a0108c0021fa234bcbb0</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-11 16:37:09</sys_updated_on>
+            <sys_updated_on>2021-03-09 20:43:42</sys_updated_on>
             <value>both</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -59,7 +59,7 @@
             <element>call_record</element>
             <hint/>
             <inactive>false</inactive>
-            <label>agent</label>
+            <label>Agent</label>
             <language>en</language>
             <name>x_ananc_alight4sn_queue</name>
             <sequence>3</sequence>
@@ -68,9 +68,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b13b97c71b25a0108c0021fa234bcbaf</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-11 16:37:13</sys_updated_on>
+            <sys_updated_on>2021-03-09 20:43:08</sys_updated_on>
             <value>agent</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -78,7 +78,7 @@
             <element>call_record</element>
             <hint/>
             <inactive>false</inactive>
-            <label>customer</label>
+            <label>Customer</label>
             <language>en</language>
             <name>x_ananc_alight4sn_queue</name>
             <sequence>4</sequence>
@@ -87,10 +87,29 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>976b9f871b25a0108c0021fa234bcb46</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-09 20:43:32</sys_updated_on>
+            <value>customer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>call_record</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agent and Customer with Contact Lens</label>
+            <language>en</language>
+            <name>x_ananc_alight4sn_queue</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-09 20:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6946b5691b3ae0102dda1f09b04bcbf5</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-11 16:37:15</sys_updated_on>
-            <value>customer</value>
+            <sys_updated_on>2021-03-09 20:44:08</sys_updated_on>
+            <value>contact_lens</value>
         </sys_choice>
     </sys_choice>
 </record_update>

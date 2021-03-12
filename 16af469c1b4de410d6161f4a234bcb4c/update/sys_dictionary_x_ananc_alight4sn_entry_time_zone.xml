@@ -11,13 +11,13 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice>3</choice>
         <choice_field>time_zone</choice_field>
         <choice_table>sys_user</choice_table>
-        <column_label>Time Zone</column_label>
+        <column_label>Time zone</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>US/Eastern</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -54,14 +54,14 @@
         <sys_created_by>david.stefferud</sys_created_by>
         <sys_created_on>2020-12-11 00:28:36</sys_created_on>
         <sys_id>f1b3d8051b45a4108c0021fa234bcb81</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Time Zone</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Time zone</sys_name>
         <sys_package display_value="Alight for ServiceNow" source="x_ananc_alight4sn">16af469c1b4de410d6161f4a234bcb4c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Alight for ServiceNow">16af469c1b4de410d6161f4a234bcb4c</sys_scope>
         <sys_update_name>sys_dictionary_x_ananc_alight4sn_entry_time_zone</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-22 21:40:30</sys_updated_on>
+        <sys_updated_on>2021-03-12 16:52:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
